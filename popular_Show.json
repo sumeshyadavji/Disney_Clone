@@ -1,0 +1,94 @@
+[
+    {
+        "name" : "hungama 2",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/poster 1.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "legend hanuman",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/poster 2.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "collar bomb",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/poster 3.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "chhichhore",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/poster 4.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "wanda vision",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/poster 5.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "morden family",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/poster 6.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "love simon",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/poster 7.webp",
+        "button": "add to watchlist"
+    },
+    
+    {
+        "name" : "shaadisthan",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/poster 10.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "ford v ferrari",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/poster 11.png",
+        "button": "add to watchlist"
+    },
+   
+    {
+        "name" : "pose",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/poster 13.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "boy's don't cry",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/poster 9.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "betty",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/poster 14.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "ford v ferrari",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/poster 11.png",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "dark phoenix",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/poster 12.png",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "car's 3",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/poster 16.webp",
+        "button": "add to watchlist"
+    }
+]

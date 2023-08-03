@@ -1,0 +1,111 @@
+[
+    {
+        "name" : "city or dream's",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image" : "./images/card 1.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "imlie",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 2.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "ye rista kya kahlata hai",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 3.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "anuphamaa",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 4.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "shinchan",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 5.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "pandya store ",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 6.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "grahan",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 7.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "doraemon",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 8.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "Devon Ke Dev...Mahadev ",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 9.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "ok computer",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 10.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "dil bechara",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 11.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "tanhaji",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 12.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "the office",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 13.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "euphoria",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 14.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "mahabharat",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 15.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "radha krishna",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 16.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "phineas and ferb",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 17.webp",
+        "button": "add to watchlist"
+    },
+    {
+        "name" : "special ops",
+        "des" : " Lorem ipsum dolor sit amet.",
+        "image": "./images/card 18.webp",
+        "button": "add to watchlist"
+    }
+
+]
